@@ -1,2 +1,2 @@
 # test
-![Image text](https://github.com/lightClouds917/designMode/blob/master/src/main/resources/templates/java4all_black.jpg)
+![Image text](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
